@@ -1,11 +1,12 @@
 "use strict";
 // importando os modulos
+const app = require("../src/app");
 const http = require("http");
 const debug = require("debug")("nodestr:server");
 const express = require("express");
 
 // criando portas
-const app = express();
+
 const port = normalizePort(process.env.PORT || "3000");
 app.set("port", port);
 
