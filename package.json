@@ -1,0 +1,25 @@
+{
+  "name": "api_teste",
+  "version": "1.0.0",
+  "description": "Criando uma api para entender melhor sobre o funcionamento e criação",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavalcant3/api_urna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavalcant3/api_urna/issues"
+  },
+  "homepage": "https://github.com/cavalcant3/api_urna#readme",
+  "dependencies": {
+    "debug": "^4.3.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  }
+}
