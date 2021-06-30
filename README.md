@@ -1,2 +1,2 @@
-# api_urna
-Criando uma api de urna para entender melhor como funciona uma api rest
+# api_teste
+Criando uma api para entender melhor sobre o funcionamento e criação
